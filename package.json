@@ -17,7 +17,7 @@
     "gatsby-plugin-sharp": "^3.3.0",
     "gatsby-plugin-smoothscroll": "^1.2.0",
     "gatsby-source-filesystem": "^3.3.0",
-    "gatsby-transformer-remark": "^4.0.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^3.3.0",
     "markdown-to-jsx": "^7.1.2",
     "modali": "^1.2.0",
